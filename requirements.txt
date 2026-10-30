@@ -1,0 +1,16 @@
+# Core Web Application Frameworks
+streamlit>=1.30.0
+fastapi>=0.100.0
+uvicorn>=0.22.0
+
+# Machine Learning, Deep Learning, & Analytics
+tensorflow>=2.15.0
+scikit-learn>=1.2.0
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Image Processing, Parsing & Utilities
+pillow>=10.0.0
+requests>=2.31.0
+pydantic>=2.0.0
+pypdf>=4.0.0
